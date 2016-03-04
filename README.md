@@ -1,0 +1,1 @@
+To use with webpack:webpack https://github.com/thereactivestack/meteor-webpack.git
